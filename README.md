@@ -19,6 +19,8 @@ Before you start, make sure your computer has:
 - If you need a virtual machine, download and install VirtualBox:  
   [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
+  refer section 2 first 5 vidoes of https://www.udemy.com/course/vsd-a-complete-guide-to-install-open-source-eda-tools/ to open a terminal write below code in it
+
 If you're using Ubuntu in VirtualBox, you might need to resize the window to fit your screen:
 
 ```bash
