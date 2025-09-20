@@ -11,7 +11,7 @@ Before you start, make sure your computer has:
 
 ---
 
-## Step 1: Install Ubuntu & VirtualBox (If Needed) and Adjust Screen Size
+## Step 1: Install Ubuntu & VirtualBox (If Needed)
 
 - If you don't have Ubuntu yet, download and install it from the official site:  
   [Download Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)
@@ -20,15 +20,6 @@ Before you start, make sure your computer has:
   [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
   refer section 2 first 5 vidoes of https://www.udemy.com/course/vsd-a-complete-guide-to-install-open-source-eda-tools/ to open a terminal and follow the next steps(NOTE:Only for people using virtual box)
-
-Now if you're using Ubuntu in VirtualBox, you might need to resize the window to fit your screen:
-
-```bash
-$ sudo apt update
-$ sudo apt install build-essential dkms linux-headers-$(uname -r)
-$ cd /media/<username>/VBox_GAs_7.1.8/
-$ ./autorun.sh
-```
 
 ---
 
