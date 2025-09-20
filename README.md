@@ -51,7 +51,7 @@ sudo make install
 
 **How to Check:**
 Type `yosys` in your terminal. You should see something like this:
-![Yosys Check]<img width="1280" height="800" alt="yosys" src="https://github.com/user-attachments/assets/8965ef2d-da6c-4322-ac20-f754897ff0e8" />
+<img width="1280" height="800" alt="yosys" src="https://github.com/user-attachments/assets/8965ef2d-da6c-4322-ac20-f754897ff0e8" />
 
 
 ---
@@ -94,6 +94,7 @@ Type `gtkwave` in your terminal. You should see:
 
 If you see the above screens for each tool, you’re ready to start working with the RISC-V SoC Tapeout Program.
 
-**Note:** If you run into any problems, double-check your steps or search for the error message online—most issues are easy to fix!
+**Note:** If you run into any problems, double-check your steps and evrything should be fine.
+
 
 ---
