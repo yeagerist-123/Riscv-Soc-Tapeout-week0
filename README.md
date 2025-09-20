@@ -1,5 +1,5 @@
 # Riscv-Soc-Tapeout-week0
-in this repo you will be finding Week-0 assignment submission of vsd risc-v tapeout programme where Setup and verification of the basic EDA toolchain (Yosys, Icarus Verilog, GTKWave) for the RISC-V SoC Tapeout Program on Ubuntu will be done.
+In this repo you will be finding Week-0 assignment submission of vsd risc-v tapeout programme, where Setup and verification of the basic EDA toolchain (Yosys, Icarus Verilog, GTKWave) on Ubuntu will be done.
 ## System Requirements
 
 Before you start, make sure your computer has:
@@ -51,7 +51,8 @@ sudo make install
 
 **How to Check:**
 Type `yosys` in your terminal. You should see something like this:
-![Yosys Check](Images/1.png)
+![Yosys Check]<img width="1280" height="800" alt="yosys" src="https://github.com/user-attachments/assets/8965ef2d-da6c-4322-ac20-f754897ff0e8" />
+
 
 ---
 
@@ -67,7 +68,8 @@ sudo apt-get install iverilog
 
 **How to Check:**
 Type `iverilog` in your terminal. You should see:
-![Iverilog Check](Images/2.png)
+<img width="1280" height="800" alt="iverilog" src="https://github.com/user-attachments/assets/60d1c27d-4430-4acd-a767-34088f2c72a0" />
+
 
 ---
 
@@ -83,7 +85,8 @@ sudo apt install gtkwave
 
 **How to Check:**
 Type `gtkwave` in your terminal. You should see:
-![GTKWave Check](Images/3.png)
+<img width="1280" height="800" alt="gtkwave" src="https://github.com/user-attachments/assets/ad4b91dd-4b1d-458d-a13f-5d68e41c5ba5" />
+
 
 ---
 
